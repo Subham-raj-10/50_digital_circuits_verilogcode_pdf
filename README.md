@@ -29,14 +29,14 @@ The circuits are organized by category and are listed below. Each circuit has it
 * Finite State Machines (Mealy and Moore FSM for Sequence Detection)
 
 ## 💡 Key Features
-1.Broad Coverage: The library includes a wide range of circuits, from basic logic gates and arithmetic circuits to advanced sequential logic like counters, shift registers, and Finite State Machines (FSMs).
-2.Ready-to-Simulate: Every design module has a corresponding test bench, allowing for immediate simulation and waveform analysis to verify correct functionality.
-3.Educational Value: The code is well-commented and structured, making it easy to understand the underlying logic and design principles.
-4.Modular & Reusable: The circuits are designed in a modular fashion, enabling easy integration into larger and more complex projects.
+* Broad Coverage: The library includes a wide range of circuits, from basic logic gates and arithmetic circuits to advanced sequential logic like counters, shift registers, and Finite State Machines (FSMs).
+* Ready-to-Simulate: Every design module has a corresponding test bench, allowing for immediate simulation and waveform analysis to verify correct functionality.
+* Educational Value: The code is well-commented and structured, making it easy to understand the underlying logic and design principles.
+* Modular & Reusable: The circuits are designed in a modular fashion, enabling easy integration into larger and more complex projects.
 
 ## 🚀 Use Cases
-1.Academic Learning: Students can use this repository to supplement their digital logic and Verilog courses by exploring practical, verified code examples.
-2.Interview Preparation: The collection serves as an excellent tool for preparing for technical interviews related to digital design and hardware description languages.
-3.Reference & Prototyping: Professional engineers can use the code as a quick reference or a starting point for developing new digital systems.
+* Academic Learning: Students can use this repository to supplement their digital logic and Verilog courses by exploring practical, verified code examples.
+* Interview Preparation: The collection serves as an excellent tool for preparing for technical interviews related to digital design and hardware description languages.
+*Reference & Prototyping: Professional engineers can use the code as a quick reference or a starting point for developing new digital systems.
 
 Thank you :)
